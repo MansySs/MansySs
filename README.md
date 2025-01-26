@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning html code
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me discord
+- 📫 How to reach me https://mansysite.org/contact
 
 <!---
 MansySs/MansySs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
